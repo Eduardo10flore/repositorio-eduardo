@@ -1,2 +1,5 @@
 # repositorio-eduardo
-primer repo
+primer repositoria
+
+## descripcion
+Este es un repositorio de Eduardo Flores
