@@ -1,2 +1,3 @@
-nombre = eduardo
-print("hola"+nombre)
+nombre = "eduardo"
+apellido = "flores"
+print("hola"+nombre+apellido)
